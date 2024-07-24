@@ -3,4 +3,4 @@ Simple utility application, that just takes a snapshot of screen as it is and sh
 
 
 ----------------------------------------
-(Bc. Stanislav "Wizard" Brandejs @ 2017)
+(Bc. Stanislav Brandejs @ 2017)
